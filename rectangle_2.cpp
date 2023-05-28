@@ -13,4 +13,5 @@ int main()
   p=2*(l+w);      //Rectangle Parameter formula
 
   cout<<"Area is "<<a<<" and parameter is "<<p<<".";
+  return 0;
 }

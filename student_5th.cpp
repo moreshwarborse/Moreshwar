@@ -22,7 +22,7 @@ int main()
     cout<<"Avarage marks are "<<avg<<"."<<endl;
 
     per=(tot/500)*100;
-    cout<<"Percentage is "<<per<<".";
+    cout<<"Percentage is "<<per<<"%.";
     
 
     return 0;

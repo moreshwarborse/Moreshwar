@@ -11,7 +11,7 @@ int main()
     else if(ch>='a' && ch<='z')
         cout<<"It is small alphabet.";
     else if(ch>='0' && ch<='9')
-        cout<<"It is small alphabet.";
+        cout<<"It is number.";
     else 
         cout<<"It is special chracter.";
 
